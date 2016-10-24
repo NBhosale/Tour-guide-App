@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">TourGuideAp</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="Workoutname">
+        <item >The Limb Loosener</item>
+        <item>Core Agony</item>
+        <item>The Wimp Special</item>
+        <item>Strength and Length</item>
+        <item>Core strength</item>
+    </string-array>
 </resources>
